@@ -1,0 +1,31 @@
+Longest line length in this file: 104
+Average line length in this file: 26
+Number of unique space-delineated tokens (case-senstive): 474
+Number of unique space-delineated tokens (case-insensitve): 462
+Number of all space-delineated tokens: 1179
+Most frequently occurring token(s): [=]
+Count of most frequently occurring token: 91
+ 
+10 most frequent tokens: 
+Token: "=" Count: 91
+Token: "{" Count: 47
+Token: "}" Count: 46
+Token: "new" Count: 30
+Token: "+" Count: 27
+Token: "for" Count: 20
+Token: "int" Count: 20
+Token: "the" Count: 16
+Token: "if" Count: 16
+Token: "0;" Count: 16
+ 
+10 least frequent tokens: 
+Token: "}}}" Count: 1
+Token: "least" Count: 1
+Token: "mostfrequentlyoccuringtokencicount.get(0));" Count: 1
+Token: "token:" Count: 1
+Token: "pw.println("count" Count: 1
+Token: "mostfrequentlyoccuringtoken);" Count: 1
+Token: "token(s):" Count: 1
+Token: "pw.println("most" Count: 1
+Token: "tokenlist.size());" Count: 1
+Token: "all" Count: 1

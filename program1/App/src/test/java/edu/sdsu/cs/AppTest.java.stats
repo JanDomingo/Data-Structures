@@ -1,0 +1,31 @@
+Longest line length in this file: 40
+Average line length in this file: 10
+Number of unique space-delineated tokens (case-senstive): 28
+Number of unique space-delineated tokens (case-insensitve): 27
+Number of all space-delineated tokens: 35
+Most frequently occurring token(s): [import, /**, /**, *, *, test, test, */, */, public, public, {, {, }, package, edu.sdsu.cs;, edu.sdsu.cs;, static, static, org.junit.assert.asserttrue;, org.junit.assert.asserttrue;, org.junit.test;, org.junit.test;, unit, unit, for, for, simple, simple, app., app., class, class, apptest, apptest, rigorous, rigorous, :-), :-), @test, @test, void, void, shouldanswerwithtrue(), shouldanswerwithtrue(), asserttrue(, asserttrue(, true, true, );]
+Count of most frequently occurring token: 2
+ 
+10 most frequent tokens: 
+Token: "import" Count: 2
+Token: "/**" Count: 2
+Token: "*" Count: 2
+Token: "test" Count: 2
+Token: "*/" Count: 2
+Token: "public" Count: 2
+Token: "{" Count: 2
+Token: "}" Count: 2
+Token: "package" Count: 1
+Token: "edu.sdsu.cs;" Count: 1
+ 
+10 least frequent tokens: 
+Token: ");" Count: 1
+Token: "true" Count: 1
+Token: "asserttrue(" Count: 1
+Token: "shouldanswerwithtrue()" Count: 1
+Token: "void" Count: 1
+Token: "@test" Count: 1
+Token: ":-)" Count: 1
+Token: "rigorous" Count: 1
+Token: "apptest" Count: 1
+Token: "class" Count: 1
